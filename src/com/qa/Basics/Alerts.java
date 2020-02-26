@@ -26,6 +26,7 @@ public class Alerts {
 String	text=alert.getText();
 System.out.println(text);
 	alert.accept();
+	System.out.println("Renuka");
 	}
 
 }
